@@ -1,5 +1,5 @@
 <div align="center"> <img src="image.png" alt="RongonKairy Banner" width="100%"/> </div> <div align="center"> <h1>Hi 👋, I'm Rongon Kairy 👋</h1> </div>
-# 💫 About Me:
+💫 About Me:
 I am a passionate Digital Content Creator & Educator focused on helping people navigate freelancing, AI tools, and passive income strategy. I love building digital platforms, sharing practical tutorials, and creating content that makes an international impact.<br>🔭 I’m currently working on growing my YouTube channel (Rongon Kairy) and digital brand<br>🌱 I’m currently learning advanced GEO (Generative Engine Optimization) and scaling content systems<br>💬 Ask me about SEO, Content Strategy, AI tools for income, and Affiliate Marketing<br>⚡ Fun fact: I design content strategies specifically tailored to reach a global audience, especially the USA market!
 
 
